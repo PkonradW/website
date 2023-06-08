@@ -9,3 +9,6 @@
 	top: 33%; /* Adjust this value as needed */
 	transform: translateY(-50%);
   }
+.middle {
+	height:100vh;
+}
