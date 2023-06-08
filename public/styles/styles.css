@@ -1,0 +1,11 @@
+.intro {
+	background-image: url('../images/fht_pano_crop.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+.intro .container-fluid {
+	position: absolute;
+	top: 33%; /* Adjust this value as needed */
+	transform: translateY(-50%);
+  }
